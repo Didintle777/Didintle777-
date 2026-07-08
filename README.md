@@ -2,6 +2,19 @@
 
 ## 📝 Bio
 Hi, I'm Didintle — an IT developer passionate about building interactive apps and learning new technologies.
+I am ambitious tech enthusiast specializing in both Cybersecurity and Software Development. I am passionate about building secure, efficient systems while understanding how vulnerabilities occur and how to prevent them.
+
+I have hands-on experience working with Kali Linux, network configurations, Cisco Packet Tracer, vulnerability scanning labs, and Python-based applications. I enjoy building practical projects, testing systems in controlled lab environments, and continuously improving my development and security skills.
+
+My goal is to become a security-focused software engineer who can design, develop, and secure modern applications.
+
+🔐 Cybersecurity
+💻 Python Development
+🌐 Networking & System Configuration
+🛠 Kali Linux & Security Tools
+🚀 Continuous Learning & Project Building
+
+I am actively seeking internships, learnerships, and entry-level opportunities where I can grow, contribute, and gain industry experience.
 
 ## 🎨 Banner
 ![Banner](https://copilot.microsoft.com/th/id/BCO.61c363d0-2c08-4de6-96ae-5c9fcd244df4.png)
