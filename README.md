@@ -4,7 +4,7 @@
 Hi, I'm Didintle — an IT developer passionate about building interactive apps and learning new technologies.
 
 ## 🎨 Banner
-![Banner](https://link-to-your-image/banner.png)
+![Banner](https://copilot.microsoft.com/th/id/BCO.61c363d0-2c08-4de6-96ae-5c9fcd244df4.png)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=radical)
