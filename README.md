@@ -49,6 +49,29 @@ I am actively seeking internships, learnerships, and entry-level opportunities w
 ![Kali Linux](https://img.shields.io/badge/Tools-Kali%20Linux-black)
 
 ---
+## 🚀 Projects
+
+### 📰 Interactive News App
+A responsive web app that displays live news updates, categories, and interactive features like adding or editing articles.  
+**Tech Used:** HTML, CSS, JavaScript  
+**Focus:** UI/UX design, dynamic content, and accessibility  
+🔗 [View Project](https://github.com/Didintle777/news-app)
+
+---
+
+### 🔐 Cybersecurity Toolkit
+A collection of Python scripts and tools for penetration testing and network analysis.  
+**Tech Used:** Python, Kali Linux, Wireshark  
+**Focus:** Ethical hacking, vulnerability scanning, and secure coding practices  
+🔗 [View Project](https://github.com/Didintle777/cybersecurity-toolkit)
+
+---
+
+### 🌐 Network Configuration Lab
+Simulated network setups and documentation for system configuration and troubleshooting.  
+**Tech Used:** Cisco Packet Tracer, Wireshark  
+**Focus:** Network topology, IP management, and system security  
+🔗 [View Project](https://github.com/Didintle777/network-lab)
 ## 📫 Connect
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Email: deeditlhake@gmail.com
