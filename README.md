@@ -31,6 +31,7 @@ I am actively seeking internships, learnerships, and entry-level opportunities w
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Didintle777&theme=radical)
+
 ---
 
 ## 🔐 My Core Stats
@@ -72,13 +73,15 @@ Simulated network setups and documentation for system configuration and troubles
 **Tech Used:** Cisco Packet Tracer, Wireshark  
 **Focus:** Network topology, IP management, and system security  
 🔗 [View Project](https://github.com/Didintle777/network-lab)
+
+---
 ## 📫 Connect
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Email: deeditlhake@gmail.com
 - 0602842758
 - justdidi.co.za
-
 ---
+
 
 
 
