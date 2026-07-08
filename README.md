@@ -27,14 +27,10 @@ I am actively seeking internships, learnerships, and entry-level opportunities w
 ## 🎨 Banner
 ![Banner](https://copilot.microsoft.com/th/id/BCO.61c363d0-2c08-4de6-96ae-5c9fcd244df4.png)
 
-## 📊 Stats
-# Didintle777 👋
-
-![Banner](https://copilot.microsoft.com/th/id/BCO.61c363d0-2c08-4de6-96ae-5c9fcd244df4.png)
-
-## 🧠 About Me
-Aspiring **Cybersecurity Analyst** and **Software Developer** passionate about protecting systems, writing secure code, and continuous learning.
-
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Didintle777&theme=radical)
 ---
 
 ## 🔐 My Core Stats
@@ -45,13 +41,6 @@ Aspiring **Cybersecurity Analyst** and **Software Developer** passionate about p
 - 🚀 **Continuous Learning & Project Building**
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Didintle777&theme=radical)
-
----
-
 ## 🧰 Tech Stack
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
@@ -60,10 +49,15 @@ Aspiring **Cybersecurity Analyst** and **Software Developer** passionate about p
 ![Kali Linux](https://img.shields.io/badge/Tools-Kali%20Linux-black)
 
 ---
-
 ## 📫 Connect
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: yourname@example.com
+- Email: deeditlhake@gmail.com
+- 0602842758
+- justdidi.co.za
+
+---
+
+
 
 ## 🛠 Badges
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
