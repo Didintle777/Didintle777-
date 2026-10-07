@@ -1,91 +1,90 @@
-# Didintle777-
+<div align="center">
 
-## 📝 Bio
-Hi, I'm Didintle — an IT developer passionate about building interactive apps and learning new technologies.
-I am ambitious tech enthusiast specializing in both Cybersecurity and Software Development. I am passionate about building secure, efficient systems while understanding how vulnerabilities occur and how to prevent them.
+# Didintle Ditlhake
 
-I have hands-on experience working with Kali Linux, network configurations, Cisco Packet Tracer, vulnerability scanning labs, and Python-based applications. I enjoy building practical projects, testing systems in controlled lab environments, and continuously improving my development and security skills.
+**Aspiring Security-Focused Software Engineer | Cybersecurity & Python Development**
 
-My goal is to become a security-focused software engineer who can design, develop, and secure modern applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-justdidi.co.za-0A66C2?style=for-the-badge)](https://justdidi.co.za)
+[![Email](https://img.shields.io/badge/Email-deeditlhake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeditlhake@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
-I am ambitious tech enthusiast specializing in both Cybersecurity and Software Development. I am passionate about building secure, efficient systems while understanding how vulnerabilities occur and how to prevent them.
-
-I have hands-on experience working with Kali Linux, network configurations, Cisco Packet Tracer, vulnerability scanning labs, and Python-based applications. I enjoy building practical projects, testing systems in controlled lab environments, and continuously improving my development and security skills.
-
-My goal is to become a security-focused software engineer who can design, develop, and secure modern applications.
-
-🔐 Cybersecurity
-💻 Python Development
-🌐 Networking & System Configuration
-🛠 Kali Linux & Security Tools
-🚀 Continuous Learning & Project Building
-
-I am actively seeking internships, learnerships, and entry-level opportunities where I can grow, contribute, and gain industry experience.
-
-I am actively seeking internships, learnerships, and entry-level opportunities where I can grow, contribute, and gain industry experience.
-
-## 🎨 Banner
-![Banner](https://copilot.microsoft.com/th/id/BCO.61c363d0-2c08-4de6-96ae-5c9fcd244df4.png)
-
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Didintle777&theme=radical)
+</div>
 
 ---
 
-## 🔐 My Core Stats
-- 🔐 **Cybersecurity**
-- 💻 **Python Development**
-- 🌐 **Networking & System Configuration**
-- 🛠 **Kali Linux & Security Tools**
-- 🚀 **Continuous Learning & Project Building**
+## About Me
+
+I'm an IT developer who builds interactive applications and enjoys learning how systems are attacked so I can help defend them. I specialise in both **cybersecurity** and **software development**, with a focus on secure, efficient design.
+
+I have hands-on experience with Kali Linux, network configuration, Cisco Packet Tracer, vulnerability-scanning labs and Python applications. I learn by building practical projects and testing them in controlled lab environments.
+
+**Goal:** become a security-focused software engineer who can design, develop and secure modern applications.
+
+**Currently seeking:** internships, learnerships and entry-level opportunities in South Africa where I can grow and gain industry experience.
 
 ---
-## 🧰 Tech Stack
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
-![Python](https://img.shields.io/badge/Language-Python-green)
-![Kali Linux](https://img.shields.io/badge/Tools-Kali%20Linux-black)
+
+## Focus Areas
+
+| Area | What I do |
+|------|-----------|
+| 🔐 Cybersecurity | Vulnerability scanning, ethical hacking, secure coding practices |
+| 💻 Python Development | Automation, security tooling, application development |
+| 🌐 Networking | Network topology, IP management, system configuration |
+| 🛠 Security Tools | Kali Linux, Wireshark, lab-based testing |
+| 🚀 Continuous Learning | Building projects and improving every week |
 
 ---
-## 🚀 Projects
+
+## Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
 
 ### 📰 Interactive News App
-A responsive web app that displays live news updates, categories, and interactive features like adding or editing articles.  
-**Tech Used:** HTML, CSS, JavaScript  
-**Focus:** UI/UX design, dynamic content, and accessibility  
-🔗 [View Project](https://github.com/Didintle777/news-app)
-
----
+A responsive web app showing live news updates and categories, with the ability to add and edit articles.
+- **Tech:** HTML, CSS, JavaScript
+- **Focus:** UI/UX design, dynamic content, accessibility
+- **Link:** [View project](https://github.com/Didintle777/REPLACE-WITH-REPO-NAME)
 
 ### 🔐 Cybersecurity Toolkit
-A collection of Python scripts and tools for penetration testing and network analysis.  
-**Tech Used:** Python, Kali Linux, Wireshark  
-**Focus:** Ethical hacking, vulnerability scanning, and secure coding practices  
-🔗 [View Project](https://github.com/Didintle777/cybersecurity-toolkit)
-
----
+A collection of Python scripts for penetration testing and network analysis, built for use in lab environments.
+- **Tech:** Python, Kali Linux, Wireshark
+- **Focus:** Ethical hacking, vulnerability scanning, secure coding
+- **Link:** [View project](https://github.com/Didintle777/REPLACE-WITH-REPO-NAME)
 
 ### 🌐 Network Configuration Lab
-Simulated network setups and documentation for system configuration and troubleshooting.  
-**Tech Used:** Cisco Packet Tracer, Wireshark  
-**Focus:** Network topology, IP management, and system security  
-🔗 [View Project](https://github.com/Didintle777/network-lab)
+Simulated network setups with documentation for configuration and troubleshooting.
+- **Tech:** Cisco Packet Tracer, Wireshark
+- **Focus:** Network topology, IP management, system security
+- **Link:** [View project](https://github.com/Didintle777/REPLACE-WITH-REPO-NAME)
 
 ---
-## 📫 Connect
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: deeditlhake@gmail.com
-- 0602842758
-- justdidi.co.za
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Didintle777&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Didintle777&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
+## Get in Touch
 
+- 📧 Email: [deeditlhake@gmail.com](mailto:deeditlhake@gmail.com)
+- 🌍 Website: [justdidi.co.za](https://justdidi.co.za)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
-
-## 🛠 Badges
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
+*All security work is performed ethically, in controlled lab environments, on systems I own or have permission to test.*
